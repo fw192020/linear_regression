@@ -1,4 +1,23 @@
 # Linear Regression: Salary Prediction
-A project completed early in the journey of this data scientist who was curious about what the data might reveal about compensation in the field. 
+Hello there! This is a supervised machine learning project completed early in my journey as a data scientist. I wanted to know what the data might reveal about compensation in the field. Can you blame me for being curious? :monkey:
 
-The dataset is comprised of ~650 observations with data that I web-scraped using Beautiful Soup and Selenium. 
+The goal was to construct a predictive regression model achieving the highest R^2 possible. Spoiler alert: it does not go very high in this project. But I did get some neat interpretations (take a look at page 8 of the presentation PDF). 
+
+I used cross-validation as my model selection method amongst the various models that I evaluated:
+1. Simple linear regression
+2. Ridge regression
+3. LASSO
+4. Polynomial regression
+
+The dataset is comprised of ~650 observations which includes salary data and metadata that I web-scraped with the help of Beautiful Soup and Selenium from:
+* Levels.fyi
+* Salary.com
+* Wikipedia.com
+
+## Jupyter Notebooks for your perusal:
+1. EDA (exploratory data analysis)
+2. Linear Regression modeling
+
+Thanks for visiting!
+
+
