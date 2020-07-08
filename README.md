@@ -1,7 +1,7 @@
 # Linear Regression: Salary Prediction
 Hello there! This is a supervised machine learning project completed early in my journey as a data scientist. I wanted to know what the data might reveal about compensation in the field. Can you blame me for being curious? :monkey:
 
-The goal was to construct a predictive regression model achieving the highest R^2 possible. Spoiler alert: it does not go very high in this project. But I did get some neat interpretations (take a look at page 8 of the presentation PDF). 
+The goal was to construct a predictive regression model achieving the highest R^2 possible. Spoiler alert: it does not go very high in this project. But I did get some neat interpretations (take a look at page 8 of the [presentation PDF](https://github.com/fw192020/linear_regression/blob/master/linear_regression_presentation.pdf). 
 
 I used cross-validation as my model selection method amongst the various models evaluated:
 1. Simple linear regression
