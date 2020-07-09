@@ -17,9 +17,9 @@ The dataset is comprised of ~650 observations which includes salary data and met
 The scraped data has been cleaned and pre-processed so ready to go for the purposes of this repo. 
 
 ## Jupyter Notebooks for your perusal:
-- 1_EDA (exploratory data analysis)
+- [1_EDA](https://github.com/fw192020/linear_regression/blob/master/1_EDA.ipynb) (exploratory data analysis)
 
-- 2_Linear Regression (modeling)
+- [2_Linear Regression](https://github.com/fw192020/linear_regression/blob/master/2_Linear_Regression.ipynb) (modeling)
 
 Thanks for visiting!
 
